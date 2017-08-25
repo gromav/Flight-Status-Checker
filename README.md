@@ -6,3 +6,4 @@ To Do:
 - Check every flight once per hour what is the status (Delayed, Cancelled, OK)
 - Send email notification when the flight is delayed or cancelled.
 - Make it available online for CS Team
+- Suggest next available GT 
